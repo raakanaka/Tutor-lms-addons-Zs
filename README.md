@@ -1,6 +1,7 @@
 ### Tambahan di Advence di bagian Custom CSS atau bisa ditambahkan di Style.css themes
 
-``` #course-filter-sidebar {
+```
+#course-filter-sidebar {
     background-color: #f9f9f9;
     padding: 16px;
     border-radius: 10px;
